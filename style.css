@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.linkzz {
+  background-color: yellow;
+  text-align: center;
+  padding: 30px;
+}
+.container {
+  background-color: orangered;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+
+.items {
+  background: linear-gradient(to bottom, yellow, skyblue, lawngreen);
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  color: black;
+}
+
+.con2{
+  text-align: center;
+  background-color: yellow;
+  padding: 30px;
+}
